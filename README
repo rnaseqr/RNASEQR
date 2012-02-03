@@ -1,0 +1,20 @@
+=========================================================================
+RNASEQR - A streamlined and accurate RNA-seq sequence analysis program 
+=========================================================================
+
+RNASEQR is a nucleotide sequence mapper/aligner and is designed specifically for RNA-seq data analysis. It takes advantage of the annotated transcripts and genomic reference sequences to obtain high quality mapping/alignment results. 
+
+Please note that RNASEQR requires Python 2.7 or later. If you have an older version, please upgrade your Python or contact your system administrator. 
+
+The source codes have been primarily built for analyzing human RNA-seq datasets using the ENSEMBL gene annotation. If you plan to run the datasets of other species, please execute "non_human.pl" after concatenating nucleotide sequences of each chromosome.  
+
+===  Obtain RNASEQR  ===
+The source codes at github are now moved to a dedicated RNASEQR page at Institute For Systems Biology. Please visit http://hood.systemsbiology.net/rnaseqr.php to download the latest RNASEQR source codes and user manual.
+
+===  Citing RNASEQR  ===
+RNASEQR - A streamlined and accurate RNA-seq sequence analysis program
+Leslie Y Chen, Kuo-Chen Wei, Abner C.-Y. Huang, Kai Wang, Chiung-Yin Huang, Danielle Yi, Chuan Yi Tang, David J. Galas, Leroy E. Hood
+Nucl. Acids Res. (2011) doi: 10.1093/nar/gkr1248
+
+===  LICENSE  ===
+RNASEQR is distributed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
